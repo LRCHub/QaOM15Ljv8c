@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ピクセル（feat. なるみや）",
+  "base_artist": "TAKU INOUE",
+  "createdAt": "2026-02-27T16:35:10.675879Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ピクセル (feat. なるみや)",
+      "artist": "TAKU INOUE",
+      "has_synced": false,
+      "path": "select/pl_01_ピクセル_(feat._なるみや)_TAKU_INOUE.txt"
+    }
+  ]
+}
